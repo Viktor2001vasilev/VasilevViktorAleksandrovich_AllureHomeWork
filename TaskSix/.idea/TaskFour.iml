@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_X">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
@@ -139,5 +139,8 @@
     <orderEntry type="library" scope="RUNTIME" name="Maven: javax.activation:activation:1.1.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.jooq:joor-java-8:0.9.14" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: io.qameta.allure:allure-test-filter:2.14.0" level="project" />
+    <orderEntry type="library" name="Maven: io.qameta.allure:allure-cucumber6-jvm:2.13.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.cucumber:gherkin:5.1.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.cucumber:gherkin-jvm-deps:1.0.4" level="project" />
   </component>
 </module>
